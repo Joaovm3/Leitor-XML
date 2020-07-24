@@ -1,0 +1,50 @@
+<records>
+<record>
+<database name="artigos.enl" path="artigos.enl">artigos.enl</database>
+<ref-type name="Report">10</ref-type>
+<contributors>
+<authors>
+<author>Outubro, A Barbiero -</author>
+<author>2006, undefined</author>
+</authors>
+</contributors>
+<titles>
+<title>RESOLUÇÃO DO CONSELHO DE ENSINO, PESQUISA E EXTENSÃO-CONSEPE Nº18/2006</title>
+<secondary-title>docs.uft.edu.br</secondary-title>
+</titles>
+<periodical>
+<full-title>docs.uft.edu.br</full-title>
+</periodical>
+<keywords/>
+<dates>
+<year>2006</year>
+</dates>
+<urls>
+<web-urls>
+<url>http://docs.uft.edu.br/share/proxy/alfresco-noauth/api/internal/shared/node/3UnHUVU-QpmXECaYsRMrFA/content/18-2006 - GestÃ£o Empresarial.pdf</url>
+</web-urls>
+</urls>
+</record>
+<record>
+<database name="artigos.enl" path="artigos.enl">artigos.enl</database>
+<ref-type name="Report">10</ref-type>
+<contributors>
+<authors>
+<author>De Mestrado, Dissertação</author>
+</authors>
+</contributors>
+<titles>
+<title>UNIVERSIDADE FEDERAL DE SANTA CATARINA-UFSC PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA DE PRODUÇÃO ÁREA DE CONCENTRAÇÃO: MÍDIA E CONHECIMENTO</title>
+</titles>
+<periodical/>
+<keywords/>
+<dates>
+<year>2003</year>
+</dates>
+<urls>
+<web-urls>
+<url>https://repositorio.ufsc.br/handle/123456789/86143</url>
+</web-urls>
+</urls>
+</record>
+</records>
